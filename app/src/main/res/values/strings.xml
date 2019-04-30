@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BGMS</string>
+    <string name="foreground">#d9ba4e</string>
+
+    <!--Login Activity-->
+    <string name="emailHint">abc@xyz.com</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButton">Log In</string>
+
+    <!--Register Activity-->
+    <string name="name">Full Name*</string>
+    <string name="email">abc@xyz.com*</string>
+    <string name="dob">DD/MM/YY(Date of Birth)</string>
+    <string name="address">Delivery Address</string>
+    <string name="registerButton">Register</string>
+    <string name="viewUser">View Users</string>
+    <string name="phone">Phone No</string>
+    <string name="usernameHint">Enter your Username!</string>
+
+    <!--Menu Activity-->
+    <string name="drawer_user_name">User Name</string>
+    <string name="drawer_email">abc@xyz.com</string>
+    <!--User Activity-->
+    <string name="openAction">Open</string>
+    <string name="closeAction">Close</string>
+
+</resources>

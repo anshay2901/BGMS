@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794512059433",
+    "firebase_url": "https://bgms-86173.firebaseio.com",
+    "project_id": "bgms-86173",
+    "storage_bucket": "bgms-86173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794512059433:android:67183d587983ee0b",
+        "android_client_info": {
+          "package_name": "com.example.ansha.bgms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794512059433-hj01toma44c0a6rbou8fmoh16pdl0ta6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ansha.bgms",
+            "certificate_hash": "e9ab573dd9da17d0770d998aef76f58db7be1b11"
+          }
+        },
+        {
+          "client_id": "794512059433-eslglusn3sto8qiqhbp7f1r8b98tgdbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQszeKcQdTzZz9AuKbsc3L5fDS9Sse71E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794512059433-eslglusn3sto8qiqhbp7f1r8b98tgdbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
